@@ -1,3 +1,7 @@
+/*
+https://metanit.com/go/tutorial/2.3.php
+*/
+
 package main
 
 import (
