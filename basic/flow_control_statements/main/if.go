@@ -10,6 +10,7 @@ func main() {
 		pow(3, 2, 10),
 		pow2(3, 3, 20),
 	)
+	switchExample()
 }
 
 func pow(x, n, lim float64) float64 {
@@ -28,5 +29,3 @@ func pow2(x, n, lim float64) float64 {
 	// can't use v here, though
 	return lim
 }
-
-//switch - так же как и в java/kotlin
