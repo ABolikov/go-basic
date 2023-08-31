@@ -16,7 +16,7 @@ https://pkg.go.dev/fmt
 import (
         "github.com/vigo5190/goimports-example/a" - обычный импорт пакета
         foo "github.com/vigo5190/goimports-example/a" - импорт c синонимом
-        . "github.com/vigo5190/goimports-example/b" - импорт с доступом ко всему имеющемуся в пакете в текущем, без указания имени пакета
+        . "github.com/vigo5190/goimports-example/b" - импорт с доступом ко всему имеющемуся в пакете, в текущем - без указания имени пакета
         _ "github.com/vigo5190/goimports-example/c" - импорт для выполнения функции init() из пакета
     )
 */

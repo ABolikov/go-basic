@@ -1,4 +1,6 @@
 Обучение Go Programming Language: https://go.dev/tour/list
 
-1) Пакет: syntax = "Packages, variables, and functions."
-2) 
+Дополнительная информация: https://metanit.com/go/tutorial/1.1.php
+
+Замечание:
+Решение задач по "Go Programming Language" в "basic/exercise/main"

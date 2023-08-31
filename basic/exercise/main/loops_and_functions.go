@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	x := float64(2)
+	x := float64(5)
 	fmt.Println("============")
 	fmt.Println(Sqrt(x))
 	fmt.Println("============")
